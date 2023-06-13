@@ -1,1 +1,1 @@
-# js-dom-manipulation-essentials
+# js-dom-manipulation
